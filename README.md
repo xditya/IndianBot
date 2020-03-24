@@ -15,8 +15,8 @@ For any query or want to know how it works join
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/japarmar/GujjuBot
-cd GujjuBot
+git clone https://github.com/indianbhaiya/indianbot
+cd IndianBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
