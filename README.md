@@ -1,5 +1,5 @@
 # IndianBot
-This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram.
+This is a userbot made for telegram. I made this userbot for help of users for security.
 
 For any query or want to know how it works join
 # https://t.me/movislink1
@@ -9,7 +9,7 @@ For any query or want to know how it works join
 
 ### The Easy Way
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Findianbhaiya%2FIndianBot&template=https%3A%2F%2Fgithub.com%2Findianbhaiya%2FIndianBot
 
 ### The Normal Way
 
