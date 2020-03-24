@@ -1,5 +1,5 @@
 # IndianBot
-This is a userbot made for telegram. I made this userbot for help of users for security.
+This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram.
 
 For any query or want to know how it works join
 # https://t.me/movislink1
@@ -9,14 +9,14 @@ For any query or want to know how it works join
 
 ### The Easy Way
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)]
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### The Normal Way
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/indianbhaiya/indianbot
-cd IndianBot
+git clone https://github.com/indianbhaiya/IndianBot
+cd Indianbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
