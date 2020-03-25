@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill ur Full name or Username.",
+      "description": "Fill your Full name or Username.",
       "value": ""
     },
     "APP_ID": {
