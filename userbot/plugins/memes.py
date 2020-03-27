@@ -857,7 +857,7 @@ async def vapor(vpr):
 @register(outgoing=True, pattern="^.repo$")
 async def source(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await e.edit("Click [here](https://github.com/japarmar/GujjuBot) to open this cool userbot repo.")
+        await e.edit("Click [here](https://github.com/indianbhaiya/IndianBot) to open this cool userbot repo.")
 			  
 			  
 @register(outgoing=True, pattern="^.str(?: |$)(.*)")
@@ -936,7 +936,7 @@ async def killing (killed):
     if not killed.text[0].isalpha() and killed.text[0] not in ("/", "#", "@", "!"):
         if await killed.get_reply_message():
             await killed.edit(
-                "`Targeted user killed by Headshot 😈......`\n"
+                "`My Master killed targeted user by Headshot 😈......`\n"
 		"#Sad_Reacts_Onli\n"
             )
 			  
