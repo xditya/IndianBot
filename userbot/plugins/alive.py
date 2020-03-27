@@ -12,8 +12,8 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars 
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("`Jinda Hu Sarr ^.^ \nYour bot is running\n\nTelethon version: 6.9.0\nPython: 3.7.3\n\n`"
-                     f"`My peru owner`: {DEFAULTUSER}\n"
+                     f"`My peru owner`: {DEFAULTUSER}\n\n"
                      "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @pureindialover\n"
                      "`Database Status: Databases functioning normally!\n\nAlways with you, my master!\n`"
-                     "[Deploy this userbot Now](https://github.com/indianbhaiya/IndianBot)\n"
+                     "[Deploy this userbot Now](https://github.com/indianbhaiya/IndianBot)\n\n"
                      "[Bot Creator](http://t.me/pureindialover)")
