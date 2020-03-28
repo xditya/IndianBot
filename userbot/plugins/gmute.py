@@ -119,7 +119,7 @@ async def endgmute(event):
 async def watcher(event):
     if is_muted(event.sender_id, "gmute"):
         await event.delete()
-
+"""
 G-Muter Plugin for userbot. //Needs MongoDB to work.
 cmds: .gmute user_id|reply to user messsage	//G-Mutes a User.
 	  .ungmute user_id|reply to user messsage //Un-Gmutes a User.
